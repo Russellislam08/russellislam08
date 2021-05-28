@@ -1,4 +1,4 @@
-### i like vim
+### i like vim :v:
 
 <!--
 **Russellislam08/russellislam08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
